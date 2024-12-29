@@ -8,7 +8,7 @@ I'm a curious mind who loves making sense of data. Whether it's digging through 
 - **Tableau** for creating dashboards that bring data to life.  
 
 ### 🚀 **Projects I'm Proud Of**  
-- ## SQL Projects:
+- ## SQL Projects: https://github.com/StrikeHERE29/SQL-Projects
 - ## Tableau Projects:
 
 ### 🎯 **What I’m Aiming For**  
