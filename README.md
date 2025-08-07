@@ -12,9 +12,6 @@ I'm a curious mind who loves making sense of data. Whether it's digging through 
 - ## Tableau Projects: [Tableau Projects](https://github.com/StrikeHERE29/Tableau-Projects)
 - ## Excel Projects: [Excel Projects](https://github.com/StrikeHERE29/Excel-Projects)
 
-### 🎯 **What I’m Aiming For**  
-I’m working towards a role in **data analysis** where I can use data to help solve real-world problems. I love learning new things and am always looking for ways to grow.
-
 ### 📫 **Let’s Connect!**  
 - **LinkedIn**:https://www.linkedin.com/in/cristian-vasile-6b14b124b/
 - **Email**:VasileCristian2901@gmail.com
